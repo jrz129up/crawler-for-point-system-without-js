@@ -5,4 +5,4 @@ The most essential and vital step is to employee the wechatopendevtools to reali
 
 Other steps are similar with the normal crawler.
 
-The essential JS code isn't represented here.
+The essential JS code isn't displayed here.
